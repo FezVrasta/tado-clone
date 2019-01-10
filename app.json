@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "grado",
-    "slug": "grado",
+    "name": "tado",
+    "slug": "tado",
     "privacy": "public",
     "sdkVersion": "31.0.0",
     "platforms": [
@@ -24,6 +24,7 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": ""
   }
 }
